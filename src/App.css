@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+.rating {
+  font-size:  30px;
+  padding:  5px 10px;
+  border-radius:  3px;
+}
+.primary {
+  margin:  10px auto;
+}
